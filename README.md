@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Logo" width="100"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL Logo" width="100"/>
-  <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-orange" alt="Tableau Logo" width="100"/>
+  <img src="https://play-lh.googleusercontent.com/mOnDUzDzCg17hGNgAkMAnaR8dAcT8WwyBfkKqJtSRC0MdNZ4RrNR01GK0PrgEFA_NFM=w480-h960-rw" alt="Tableau Logo" width="100"/>
 </div>
 
 
