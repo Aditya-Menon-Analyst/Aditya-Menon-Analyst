@@ -8,10 +8,10 @@
 
 
 ### 🚀 About Me  
-🔹 Pursuing Masters in Quantitative Management at Duke University             
+🔹 Masters in Quantitative Management Grad from Duke University             
 🔹 Passionate about transforming data into insights  
 🔹 Crafting solutions with Python, R, SQL, and Tableau  
-🔹 Currently exploring Analytics
+🔹 Business Analyst at Bruce Inc.
 
 ---
 
